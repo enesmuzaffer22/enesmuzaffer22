@@ -1,5 +1,4 @@
 <div class="container" style="height: 100%; width: 100%;">
-        <img src="https://mir-s3-cdn-cf.behance.net/9d33fb6b89f1443b6208c30a5ee9980e/e13e6503-6499-46e1-9bb5-947479145f6e_rwc_134x0x2933x410x3200.jpg?h=b65c418cbe082d8d18ec6e6198a4367c" alt="banner" style="height: auto; width: 100%;">
         <h1 style="text-align: center; font-family: sans-serif;">Hi 👋, I'm Muzaffer Enes</h1>
         <p style="text-align: center; font-family: sans-serif; font-size: 16px;">I enjoy following the software industry and doing projects in this area. I am also interested <br>in graphic design. I am actively sharing projects on my Behance network.</p>
         <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Contact me</h1>
