@@ -3,9 +3,9 @@
         <p style="text-align: center; font-family: sans-serif; font-size: 16px;">I enjoy following the software industry and doing projects in this area. I am also interested <br>in graphic design. I am actively sharing projects on my Behance network.</p>
         <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Contact me</h1>
         <div class="social-media" style="display: flex; justify-content: center; align-items: center; flex-direction: row; column-gap: 40px;">
-            <a href="https://instagram.com/enesmuzafferr"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494488.png" alt="instagram" style="height: 60px; width: 60px;"></a>
-            <a href="https://linkedin.com/in/muzaffer-yildirim"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" style="height: 60px; width: 60px;"></a>
-            <a href="https://www.behance.net/muzafferyldrm"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="behance" style="height: 60px; width: 60px;"></a>
+            <a href="https://instagram.com/enesmuzafferr" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494488.png" alt="instagram" style="height: 60px; width: 60px;"></a>
+            <a href="https://linkedin.com/in/muzaffer-yildirim" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" style="height: 60px; width: 60px;"></a>
+            <a href="https://www.behance.net/muzafferyldrm" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="behance" style="height: 60px; width: 60px;"></a>
         </div>
         <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Languages and Tools</h1>
         <div class="lang-tools" style="display: flex; justify-content: center; align-items: center; flex-direction: row; column-gap: 40px;">
