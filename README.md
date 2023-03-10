@@ -18,7 +18,7 @@
         </div>
         <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Statistics</h1>
         <div class="stats" style="display: flex; justify-content: center; flex-direction: row; column-gap: 40px;">
-           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesmuzaffer22&hide_border=true&layout=compact" align="left" style="width: 100%" />
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesmuzaffer22&hide_border=true&layout=compact" align="left" style="width: auto" />
             <p><img src="https://github-readme-stats.vercel.app/api?username=enesmuzaffer22&show_icons=true&locale=en" alt="enesmuzaffer22_" /></p>
         </div>
     </div>
