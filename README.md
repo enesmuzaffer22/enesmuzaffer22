@@ -18,7 +18,7 @@
         </div>
         <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Statistics</h1>
         <div class="stats" style="display: flex; justify-content: center; flex-direction: row; column-gap: 40px;">
-            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesmuzaffer22&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesmuzaffer22)](https://github.com/anuraghazra/github-readme-stats)
             <p><img src="https://github-readme-stats.vercel.app/api?username=enesmuzaffer22&show_icons=true&locale=en" alt="enesmuzaffer22_" /></p>
         </div>
     </div>
