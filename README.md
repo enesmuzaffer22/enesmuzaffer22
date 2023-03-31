@@ -9,7 +9,7 @@
         </div>
         <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Languages and Tools</h1>
         <div class="lang-tools" style="display: flex; justify-content: center; align-items: center; flex-direction: row; column-gap: 40px;">
-            <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c-sharp" width="auto" height="60"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="c-sharp" width="auto" height="60"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
