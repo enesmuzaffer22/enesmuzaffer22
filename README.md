@@ -8,7 +8,7 @@
             <a href="https://www.behance.net/muzafferyldrm" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="behance" style="height: 60px; width: 60px;"></a>
         </div>
         <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Languages and Tools</h1>
-        <div class="lang-tools" style="display: flex; justify-content: center; align-items: center; flex-direction: row; column-gap: 40px;">
+        <div class="lang-tools" style="display: flex; align-items: center; flex-direction: row; column-gap: 40px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="c-sharp" width="auto" height="60"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
