@@ -1,6 +1,6 @@
 <div class="container" style="height: 100%; width: 100%;">
         <h1 style="text-align: center; font-family: sans-serif;">Hi 👋, I'm Muzaffer Enes</h1>
-        <p style="text-align: center; font-family: sans-serif; font-size: 16px;">I enjoy following the software industry and doing projects in this area. I am also interested <br>in graphic design. I am actively sharing projects on my Behance network.</p>
+        <p style="text-align: center; font-family: sans-serif; font-size: 16px;">I'm into frontend development and love working on projects in this area. Graphic design is more of a hobby for me, and I occasionally share my designs on Behance. 😊</p>
         <h1 style="text-align: center; font-family: sans-serif; margin-top: 60px;">Contact me</h1>
         <div class="social-media" style="display: flex; justify-content: center; align-items: center; flex-direction: row; column-gap: 40px;">
             <a href="https://instagram.com/enesmuzafferr" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494488.png" alt="instagram" style="height: 60px; width: 60px;"></a>
