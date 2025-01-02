@@ -2,7 +2,7 @@
 I'm into frontend development and love working on projects in this area. Graphic design is more of a hobby for me, and I occasionally share my designs on Behance. 😊
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/muzafferyldrm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enesmuzafferr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzaffer-yildirim) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@enesmuzaffer22) 
 
 # 💻 Tech Stack:
